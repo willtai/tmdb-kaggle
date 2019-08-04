@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker build -t jupyter-dockerfile -f Dockerfile .
+docker build -t jupyter-image -f Dockerfile .
